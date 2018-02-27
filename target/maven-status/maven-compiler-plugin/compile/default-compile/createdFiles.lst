@@ -1,0 +1,6 @@
+main\java\vn\omi\util\HibernateUtil.class
+main\java\vn\omi\GetAllDataNativeQuery.class
+main\java\vn\omi\GetAllData.class
+main\java\vn\omi\entity\Department.class
+main\java\vn\omi\CreateData.class
+main\java\vn\omi\entity\Employee.class
